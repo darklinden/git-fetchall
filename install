@@ -1,0 +1,2 @@
+cp fetchall.sh /usr/local/bin/fetchall
+chmod a+x /usr/local/bin/fetchall
